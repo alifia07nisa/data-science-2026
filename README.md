@@ -1,9 +1,9 @@
 # data-science-2026
 Data Science 2026
 
-Nama Mahasiswa  : Alifia Choirunnisa
-NIM             : 250401020010
-Kelas           : IF403
+Nama Mahasiswa  : Alifia Choirunnisa  
+NIM             : 250401020010  
+Kelas           : IF403  
 
 Perkenalkan saya Alifia, saya adalah seorang pegawai bidang IT yang saat ini juga melaksanakan perkuliahan di Unsia. Pada bidang IT sendiri saya lebih mendalami pemrograman dibanding dengan jaringan, oleh karena itu saya memilih peminatan mata kuliah di bidang data. Data science merupakan bidang yang mempelajari analisis data serta teknis mengolah data. Dimulai dari pemahaman bisnis, pemahaman data, persiapan data, pemodelan, evaluasi, dan yang terakhir deployment, ini merupakan metodologi yang paling umum digunakan dalam data science. Saat ini data science sudah digunakan di berbagai bidang seperti bisnis, kesehatan, pendidikan, serta teknologi.
 
@@ -11,13 +11,13 @@ Saya tertarik belajar Data Science karena data science menggabungkan kemampuan u
 
 
 Daftar pertemuan Data Science :
-1. [Pengenalan Data Science] (https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan1_Alifia_Choirunnisa_250401020010.ipynb)
-2. [Struktur Data Python, NumPy & Pandas] (https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan2_Alifia_Choirunnisa_250401020010.ipynb)
-3. [Data Cleaning: Missing Values, Outlier & Ekstraksi Data] (https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan3_Alifia_Choirunnisa_250401020010.ipynb)
-4. [Statistika Dasar & Analisis Data] (https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan4_Alifia_Choirunnisa_250401020010.ipynb)
-5. [Visualisasi Data] (https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan5_Alifia_Choirunnisa_250401020010.ipynb)
-6. [Persiapan Data] (https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan6_Alifia_Choirunnisa_250401020010.ipynb)
-7. [Pengantar Machine Learning Regresi Linear] (https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan7_Alifia_Choirunnisa_250401020010.ipynb)
+1. [Pengenalan Data Science](https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan1_Alifia_Choirunnisa_250401020010.ipynb)
+2. [Struktur Data Python, NumPy & Pandas](https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan2_Alifia_Choirunnisa_250401020010.ipynb)
+3. [Data Cleaning: Missing Values, Outlier & Ekstraksi Data](https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan3_Alifia_Choirunnisa_250401020010.ipynb)
+4. [Statistika Dasar & Analisis Data](https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan4_Alifia_Choirunnisa_250401020010.ipynb)
+5. [Visualisasi Data](https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan5_Alifia_Choirunnisa_250401020010.ipynb)
+6. [Persiapan Data](https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan6_Alifia_Choirunnisa_250401020010.ipynb)
+7. [Pengantar Machine Learning Regresi Linear](https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan7_Alifia_Choirunnisa_250401020010.ipynb)
 
 Tools/library yang digunakan 
 - Python
