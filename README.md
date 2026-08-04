@@ -18,6 +18,11 @@ Daftar pertemuan Data Science :
 5. [Visualisasi Data](https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan5_Alifia_Choirunnisa_250401020010.ipynb)
 6. [Persiapan Data](https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan6_Alifia_Choirunnisa_250401020010.ipynb)
 7. [Pengantar Machine Learning Regresi Linear](https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan7_Alifia_Choirunnisa_250401020010.ipynb)
+9. [Algoritma Klasifikasi Bagian 1](https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan9_Alifia_Choirunnisa_250401020010.ipynb)
+10. [Algoritma Klasifikasi Bagian 2](https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan10_Alifia_Choirunnisa_250401020010.ipynb)
+11. [Unsupervised Learning (Clustering)](https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan11_Alifia_Choirunnisa_250401020010.ipynb)
+12. [Asosiasi Data & Sistem Rekomendasi Dasar](https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan12_Alifia_Choirunnisa_250401020010.ipynb)
+13. [Pengantar Deep Learning & NLP Dasar](https://github.com/alifia07nisa/data-science-2026/blob/main/Pertemuan13_Alifia_Choirunnisa_250401020010.ipynb)
 
 Tools/library yang digunakan 
 - Python
